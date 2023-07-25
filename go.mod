@@ -1,4 +1,4 @@
-module github.com/thlib/go-timezone-local
+module github.com/davidgiffin/go-timezone-local
 
 go 1.20
 
