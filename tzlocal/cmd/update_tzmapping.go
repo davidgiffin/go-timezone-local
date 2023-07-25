@@ -4,7 +4,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/thlib/go-timezone-local/tzdata"
+	"github.com/davidgiffin/go-timezone-local/tzdata"
 )
 
 func main() {
